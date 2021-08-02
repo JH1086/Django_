@@ -54,3 +54,9 @@ ex) pyenv virtualenv 3.7.7 test
 
 `django-admin --version`
 //버전이 뜬다면 정상 설치
+
+
+# 장고 프로젝트 시작하기
+해당 디렉토리로 이동 후
+`django-admin startproject {프로젝트명}`
+
