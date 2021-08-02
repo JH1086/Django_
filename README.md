@@ -62,5 +62,4 @@ ex) pyenv virtualenv 3.7.7 test
 # APP 만들기
 `python manage.py startapp {생성할 App 이름}`
 
-`django-admin startproject {프로젝트명}`
 
